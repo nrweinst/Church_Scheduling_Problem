@@ -1,0 +1,5 @@
+__pycache__/
+# volunteer personal data and derived results
+data/
+outputs/
+scheduling/local_secrets.py
